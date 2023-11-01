@@ -1,0 +1,18 @@
+pdfs = [
+    "docs/10.ANEXOS.pdf",
+    "11.ANEXOS.pdf",
+    "docs/12.CARTA_DE_RESPALDO.pdf",
+    "13.Letter_of_Support.pdf",
+    "docs/20.FICHAS_LEGALES.pdf",
+    "docs/21.FICHA_REPRESENTANTE_LEGAL_(Certificado_de_Vigencia).pdf",
+    "docs/22.FICHA_REMYPE_2023.pdf",
+    "docs/23.FICHA_RUC_2023.pdf",
+    "docs/24.FICHA_RNP_2023.pdf",
+    "docs/30.EXPERIENCIA_DEL_POSTOR.pdf",
+    "docs/31.EXPERIENCIA_DEL_POSTOR-FORMATOS.pdf",
+    "docs/40.PERSONAL_CLAVE.pdf",
+    "docs/41.PC_Jefe_Proyectos.pdf",
+    "docs/411.Jefe-Proyectos1.pdf",
+    "docs/42.PC_Tecnico.pdf",
+    "docs/421.Tecnico1.pdf",
+    ]
